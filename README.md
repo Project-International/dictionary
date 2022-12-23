@@ -16,9 +16,9 @@ We have several features (that are planned and are to be done meaning that they 
 * And even more...
 
 ## How to contribute?
-# To contribute you must sign up for a GitHub account which you can do by clicking this [link to GitHub](https://github.com)
-# Once your on GitHub, you must know how to code / learn computing, you can use various online courses which are easily searchable on google
-# Read the rest of the guide here by clicking this link (coming soon)
+1. To contribute you must sign up for a GitHub account which you can do by clicking this [link to GitHub](https://github.com)
+2. Once your on GitHub, you must know how to code / learn computing, you can use various online courses which are easily searchable on google
+3. Read the rest of the guide here by clicking this link (coming soon)
 
 ## Credits and License
 * All credits to the Project International organisation on Github and those who contribute to it to there respective code
